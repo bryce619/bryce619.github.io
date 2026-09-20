@@ -23,7 +23,7 @@ This dataset could be used to identify crash hotspots, analyze trends over time,
 
 Using Python and GIS mapping tools, researchers could visualize crash locations and investigate patterns that may help inform transportation planning and road safety improvements.
 
-I find this dataset interesting because it demonstrates how real-world transportation data can be analyzed to better understand and potentially address a public safety problem.
+I find this dataset interesting because it demonstrates how real-world transportation data can be analyzed to better understand and potentially address a public safety problem. I was also drawn to it because it closely aligns with my BDA 594 group project that examines serious and fatal injuries in traffic collisions recorded by the San Diego Police Department between 2015 and 2025.
 
 ---
 
